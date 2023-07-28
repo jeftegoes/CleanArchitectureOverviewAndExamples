@@ -8,7 +8,7 @@ It is a small / simple example that shows how work Asynchronous operations
 .NET 5.0
 
 ## Result of this example SimpleExampleAsync
-![ExampleCsharpAsyncOperations](https://github.com/jeftegoesdev/ExampleCsharpAsyncOperations/blob/master/Images/SimpleExampleAsync.PNG)
+![ExampleCsharpAsyncOperations](Images/SimpleExampleAsync.png)
 
 ## Result of this example ExampleAsyncDownload
-![ExampleCsharpAsyncOperations](https://github.com/jeftegoesdev/ExampleCsharpAsyncOperations/blob/master/Images/ExampleAsyncDownload.PNG)
+![ExampleCsharpAsyncOperations](Images/ExampleAsyncDownload.png)
